@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1515508312 source:c:\users\admin\documents\mydocs\education\cs\c++\gl\circles\sauce.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1509099733 c:\opengl\freeglut\freeglut-3.0.0-mingw\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1509099733 c:\opengl\freeglut\freeglut-3.0.0-mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1518886723 source:c:\users\admin\documents\mydocs\education\cs\c++\gl\circles\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<cmath>
+	<math.h>
+
+1509103333 c:\c++ visuals\freeglut\freeglut-3.0.0-mingw\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1509103333 c:\c++ visuals\freeglut\freeglut-3.0.0-mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
